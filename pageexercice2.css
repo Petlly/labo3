@@ -1,0 +1,22 @@
+
+body{
+   background-image: url("image/pngtree-digitally-textured-abstract-background-with-colorful-triangles-image_2661686.jpg");
+   background-position: top center;
+   background-size: cover;
+   
+}
+
+table, tr, th, td{
+   text-align: center;
+   border: 2px solid black;
+   border-collapse: collapse;
+   ;padding-left: 32px;
+   padding-right: 32px;
+  
+}
+
+table{
+   margin:auto;
+   font-size: 45px;
+   color:white;
+}
