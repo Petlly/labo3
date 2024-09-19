@@ -18,5 +18,21 @@ table, tr, th, td{
 table{
    margin:auto;
    font-size: 45px;
-   color:white;
+   font-weight: bold;
 }
+
+tr:nth-child(even)
+{
+   background-color: aquamarine;
+
+}
+
+tr:nth-child(odd){
+   color: white;
+}
+
+tr:nth-child(9){
+   background-color: black;
+}
+
+
